@@ -1,0 +1,437 @@
+ID,Wahlperiode,Vorname,Nachname,Partei,Datum_Mandatsniederlegung,Amtstage_in_Wahlperiode,Grund,Hintergrund
+1,1,Theodor,Heuss,FDP,15.09.1949,8,Amtswechsel,Er wurde Bundespräsident.
+2,1,Rudolf,Amelunxen,Z,07.10.1949,30,Landespolitik,Er wurde Sozialminister von Nordrhein-Westfalen.
+3,1,Werner,Hilpert,CDU,10.10.1949,33,Landespolitik,Er konzentrierte sich auf sein Amt als zweiter Ministerpräsident und Finanzminister Hessens (seit 1947).
+4,1,Robert,Leibbrand,KPD,26.01.1950,141,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+5,1,Hans,Schlange-Schöningen,CDU,09.06.1950,275,Amtswechsel,Er wurde Geschäftsträger im Generalkonsulat der Bundesrepublik Deutschland in Großbritannien.
+6,1,Heinrich,Lübke,CDU,30.09.1950,388,Landespolitik,Er wurde Landwirtschaftsminister Nordrhein-Westfalens.
+7,1,Friedrich,Middelhauve,FDP,17.10.1950,405,Landespolitik,Er konzentrierte sich auf seine Mitgliedschaft im Landtag von Nordrhein-Westfalen.
+8,1,Josef,Baumgartner,BP,01.01.1951,481,Landespolitik,Er konzentrierte sich auf sein Amt als Vorsitzender der Bayernpartei (seit 1948).
+9,1,Georg-August,Zinn,SPD,21.01.1951,501,Landespolitik,Er wurde hessischer Ministerpräsident.
+10,1,Waldemar,von Knoeringen,SPD,03.04.1951,573,Landespolitik,Er konzentrierte sich auf sein Amt als SPD- Landesvorsitzender in Bayern (seit 1947).
+11,1,Hermann,Nuding,KPD,20.04.1951,590,Affäre,Er legte auf Weisung der SED das Bundestagsmandat nieder.
+12,1,Fritz,Oellers,FDP,05.06.1951,636,Amtswechsel,Er wurde Botschafter der Bundesrepublik Deutschland in Brasilien.
+13,1,Hermann,Höpker-Aschoff,FDP,09.09.1951,732,Sonstiges,Er wurde Präsident des Bundesverfassungsgerichts.
+14,1,Gebhard,Seelos,BP,25.09.1951,748,Landespolitik,Er kehrte in den Bayerischen Staatsdienst zurück.
+15,1,Gustav,Herbig,SPD,01.12.1951,815,Amtswechsel,Er wurde deutscher Gesandter in Uruguay.
+16,1,Johannes,Degener,CDU,31.12.1951,845,Landespolitik,Er wurde Senator für das Wohlfahrts- und Gesundheitswesen von Bremen.
+17,1,Carl,von Campe,DP,08.01.1952,715,Amtswechsel,Er wurde Botschafter der Bundesrepublik Deutschland in Chile.
+18,1,Otto,Suhr,SPD,31.01.1952,876,Landespolitik,Er konzentrierte sich auf sein Amt als Präsident des Berliner Abgeordnetenhauses (seit 1951).
+19,1,Franz,Richter,fraktionslos,21.02.1952,897,Affäre,Er wurde als NS-Funktionär Fritz Rößler enttarnt.
+20,1,Walter,Vesper,KPD,30.06.1952,1027,Affäre,Er war ein Funktionär des KPD/SED-Nachrichtendienstes und übersiedelte in die DDR 
+21,1,Eugen,Fü. z. Oettingen-Wallerstein,FU,01.09.1952,602,Gesundheit,Er legte sein Mandat aus gesundheitlichen Gründen nieder.
+22,1,Wilhelm,Nowack,FDP,30.09.1952,1119,Landespolitik,Er konzentrierte sich auf sein Amt als Finanzminister von Rheinland-Pfalz (seit 1951).
+23,1,Franz,Etzel,CDU,04.01.1953,1215,Europapolitik,Er konzentrierte sich auf sein Amt bei der Europäische Gemeinschaft für Kohle und Stahl (seit 1952).
+24,1,Friedrich,Holzapfel,CDU,20.01.1953,1231,Amtswechsel,Er wurde deutscher Gesandter in Bern.
+25,1,Paul Hans,Jaeger,FDP,22.01.1953,1233,Affäre,Ihm wurde das Mandat wegen eines fehlerhaften Nachrückverfahrens aberkannt.
+26,1,Hans,Mühlenfeld,DP,15.05.1953,1346,Amtswechsel,Er wurde deutscher Botschafter in den Niederlanden.
+27,2,Eduard,Fiedler,GB/BHE,13.10.1953,7,Landespolitik,"Er wurde Minister für Vertriebene, Flüchtlinge und Kriegsgeschädigte von Baden-Württemberg."
+28,2,Oskar,Farny,CDU,11.11.1953,36,Landespolitik,Er wurde Minister für Bundesangelegenheiten des Landes Baden-Württemberg.
+29,2,Gebhard,Müller,CDU,11.11.1953,36,Landespolitik,Er wurde Ministerpräsidenten von Baden-Württemberg.
+30,2,Hermann,Veit,SPD,10.12.1953,65,Landespolitik,Er wurde stellv. Ministerpräsident von Baden-Württemberg.
+31,2,Friedrich,Middelhauve,FDP,10.09.1954,339,Landespolitik,Er wurde stellv. Ministerpräsident und Wirtschaftsminister in Nordrhein-Westfalen (zweite Niederlegung).
+32,2,Willi,Weyer,FDP,17.09.1954,346,Landespolitik,Er wurde Minister für Wiederaufbau in der Landesregierung von Nordrhein-Westfalen.
+33,2,Kai-Uwe,von Hassel,CDU,04.11.1954,394,Landespolitik,Er wurde Ministerpräsident von Schleswig- Holstein.
+34,2,Heinrich,Hellwege,DP,27.05.1955,598,Landespolitik,Er wurde Ministerpräsident von Niedersachsen.
+35,2,Robert,Dannemann,FDP,01.07.1955,633,Landespolitik,Er wurde Präsident des Niedersächsischen Verwaltungsbezirks Oldenburg.
+36,2,Wilhelm,Traub,SPD,08.09.1955,702,Wirtschaft,Er wurde Direktor der Landesversicherungsanstalt des Landes Baden-Württemberg.
+37,2,Karl Georg,Pfleiderer,FDP,20.09.1955,714,Amtswechsel,Er wurde deutscher Botschafter in Jugoslawien.
+38,2,Karl,Graf von Spreti,CSU,05.03.1956,881,Amtswechsel,Er wurde deutscher Botschafter in Luxemburg.
+39,2,Paul,Luchtenberg,FDP,09.04.1956,569,Landespolitik,Er wurde Kultusminister in Nordrhein-Westfalen.
+40,2,Reinhold,Maier,FDP,14.05.1956,951,Landespolitik,Er wurde Mitglied des Landtags von Baden-Württemberg.
+41,2,Eugen,Leibfried,CDU,21.06.1956,989,Landespolitik,Er wurde Landwirtschaftsminister von Baden-Württemberg.
+42,2,Hermann,Trittelvitz,SPD,12.09.1956,1072,Sonstiges,Er wurde Leiter des Arbeitsamtes in Saarbrücken.
+43,2,Eugen,Maucher,CDU,16.09.1956,1076,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+44,2,Eduard,Orth,CDU,07.10.1956,1097,Landespolitik,Er wurde Minister für Unterricht und Kultus des Landes Rheinland-Pfalz.
+45,2,Wilhelm,Kratz,CDU,11.04.1957,97,Landespolitik,Er wurde saarländischer Landtagspräsident.
+46,2,Josef,Grunner,SPD,21.06.1957,10,Landespolitik,Er wurde Bezirksstadtrat in Berlin-Schöneberg.
+47,2,Anton,Sabel,CDU,16.09.1957,1441,Amtswechsel,Er wurde Präsident der Bundesanstalt für Arbeitsvermittlung und Arbeitslosenversicherung.
+48,2,Valentin,Brück,CDU,17.09.1957,1442,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+49,3,Otto,von Feury,CSU,10.12.1957,56,Wirtschaft,Er wurde Vorstandsmitglied der Bayerischen Raiffeisen-Zentralkasse.
+50,3,Franz,Blücher,DP,28.02.1958,136,Europapolitik,Er wurde Mitglied der Hohen Behörde der Europäischen Gemeinschaft für Kohle und Stahl.
+51,3,Nikolaus,Schreiner,SPD,31.08.1958,320,Wirtschaft,Er wurde Arbeitsdirektor der Dillinger Hüttenwerke.
+52,3,Franz,Meyers,CDU,04.09.1958,324,Landespolitik,Er wurde Ministerpräsident von Nordrhein-Westfalen.
+53,3,August-Martin,Euler,DP,10.09.1958,330,Europapolitik,Er wurde Generaldirektor bei der Versorgungsabteilung der Euratom.
+54,3,Kurt Georg,Kiesinger,CDU,19.02.1959,492,Landespolitik,Er wurde Ministerpräsident von Baden-Württemberg.
+55,3,Alfred,Gleisner,SPD,17.03.1959,518,Landespolitik,"Er wurde Amtsdirektor in Pelkum, Kreis Hamm."
+56,3,Carlo,Graaff,FDP,08.05.1959,570,Landespolitik,Er wurde Wirtschaftsminister von Niedersachsen.
+57,3,Kurt,Conrad,SPD,20.07.1959,643,Landespolitik,Er wurde Innenminister des Saarlandes.
+58,3,Heinrich,Lübke,CDU,02.09.1959,687,Amtswechsel,Er wurde Bundespräsident (zweite Niederlegung).
+59,3,Fritz,Berendsen,CDU,15.09.1959,700,Affäre,Er wurde General der Bundeswehr. Zuvor gab es einen Untersuchungsausschuss gegen ihn.
+60,3,Reinhold,Maier,FDP,30.09.1959,715,Amtswechsel,Er konzentrierte sich auf sein Amt als Bundesvorsitzender der FDP (zweite Niederlegung).
+61,3,Oskar,Munzinger,SPD,01.10.1959,164,Landespolitik,Er wurde Oberbürgermeister der Stadt Zweibrücken.
+62,3,Rudolf,Recktenwald,SPD,20.10.1959,70,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+63,3,Fritz,Glahn,FDP,02.11.1959,748,Landespolitik,Er wurde Minister für Finanzen und Wiederaufbau in der Landesregierung von Rheinland-Pfalz.
+64,3,Fritz,Hellwig,CDU,30.11.1959,776,Europapolitik,Er wurde Mitglied der Hohen Behörde der Europäischen Gemeinschaft für Kohle und Stahl.
+65,3,Otto,Walpert,SPD,12.01.1960,819,Wirtschaft,Er wurde Geschäftsführer der Landesversicherungsanstalt Westfalen.
+66,3,Ludwig,Ratzel,SPD,21.06.1960,980,Landespolitik,Er wurde Bürgermeister von Mannheim.
+67,3,Alfred,Frenzel,SPD,04.11.1960,1116,Affäre,Er wurde als Spion der Tschechoslowakei enttarnt und legte daraufhin sein Mandat nieder.
+68,3,Johannes,Brüns,CDU,28.11.1960,399,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+69,3,Walter,Harm,SPD,22.09.1961,1438,Affäre,Er verzichtete auf sein Amt um kurz danch wieder einzutreten (u.a. wegen höherer Pensionsansprüche).
+70,4,Georg-August,Zinn,SPD,13.12.1961,339,Landespolitik,Er konzentrierte sich auf sein Amt als Ministerpräsident Hessens (zweite Niederlegung).
+71,4,Friedrich Wilhelm,Wagner,SPD,19.12.1961,63,Sonstiges,Er wurde Vizepräsident des Bundesverfassungsgerichts.
+72,4,Willy,Brandt,SPD,27.12.1961,71,Landespolitik,Er wurde Regierender Bürgermeister von Berlin.
+73,4,Wilhelm,Hoegner,SPD,04.01.1962,79,Landespolitik,Er konzentrierte sich auf seine Mitgliedschaft im Bayerischen Landtag (seit 1950).
+74,4,Klaus,Schütz,SPD,09.01.1962,84,Landespolitik,Er wurde Senator für Bundesangelegenheiten und Bevollmächtigter des Landes Berlin beim Bund.
+75,4,Irma,Keilhack,SPD,19.01.1962,94,Landespolitik,Sie wurde Senatorin in Hamburg.
+76,4,Helmut,Schmidt,SPD,19.01.1962,94,Landespolitik,Er wurde Innensenator Hamburgs.
+77,4,Eugen,Huthmacher,CDU,13.02.1962,119,Wirtschaft,Er wurde Vorsitzender der Saar Ferngas AG.
+78,4,Gerd,Bucerius,CDU,22.03.1962,156,Affäre,Er legte sein Mandat nach der so genannten Höllenfeuer-Affäre nieder.
+79,4,Ernst,Engelbrecht-Greve,CDU,07.12.1962,416,Landespolitik,Er wurde Landwirtschaftsminister in Schleswig-Holstein.
+80,4,Hans,Schütz,CDU,05.02.1963,476,Landespolitik,Er wurde Staatssekretär im Bayerischen Staatsministerium für Arbeit.
+81,4,Gerhard,Wacher,CSU,26.03.1963,525,Landespolitik,Er wurde Staatssekretär im bayerischen Wirtschaftsministerium.
+82,4,Heinz,Kühn,SPD,09.04.1963,539,Landespolitik,Er wurde Vorsitzender der SPD-Fraktion des Landtages von Nordrhein-Westfalen.
+83,4,Kurt,Neubauer,SPD,16.04.1963,546,Landespolitik,Er wurde Senator für Jugend und Sport in Berlin.
+84,4,Karl,Wittrock,SPD,08.05.1963,568,Landespolitik,Er wurde Regierungspräsident in Wiesbaden.
+85,4,Rudolf,Vogel,CDU,15.04.1964,911,Amtswechsel,Er wurde Botschafter der Bundesrepublik Deutschland bei der OECD in Paris.
+86,4,Robert,Margulies,FDP,27.08.1964,1045,Europapolitik,Er wurde Mitglied der Kommission der Europäischen Atomgemeinschaft.
+87,4,Willi,Birkelbach,SPD,30.09.1964,1079,Landespolitik,Er wurde Staatssekretär in der Staatskanzlei des Landes Hessen.
+88,4,Uwe-Jens,Nissen,SPD,01.10.1964,1080,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+89,4,Emil,Kemmer,CSU,07.10.1964,1086,Landespolitik,Er wurde Landrat von Bamberg.
+90,4,Wilhelm,Hahn,CDU,16.11.1964,922,Landespolitik,Er wurde Kulturminister des Landes Baden-Württemberg.
+91,4,Matthias,Hoogen,CDU,11.12.1964,1151,Amtswechsel,Er wurde Wehrbeauftragter des Deutschen Bundestags.
+92,4,Gerhard,Fritz,CDU,05.01.1965,1176,Sonstiges,Er wurde Kurator der Deutschen Stiftung für Entwicklungsländer.
+93,4,Hans-Jürgen,Pohlenz,SPD,10.06.1965,619,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+94,4,Jakob,Franzen,CDU,08.10.1965,1452,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+95,5,Ludwig,Hamm,FDP,12.05.1966,205,Landespolitik,Er wurde Staatssekretär im Wirtschaftsministerium von Rheinland-Pfalz.
+96,5,Heinz,Morgenstern,SPD,14.09.1966,330,Landespolitik,Er wurde Staatssekretär im Niedersächsischen Ministerium für Bundesangelegenheiten.
+97,5,Friedrich,Vogel,CDU,06.10.1966,352,Landespolitik,Er wurde Justizminister von Nordrhein-Westfalen.
+98,5,Werner,Figgen,SPD,06.12.1966,413,Landespolitik,Er wurde Arbeitsminister von Nordrhein-Westfalen.
+99,5,Udo,Hein,SPD,22.12.1966,429,Amtswechsel,Er wurde Staatssekretär im Bundesministerium für wirtschaftliche Zusammenarbeit.
+100,5,Friedrich,Schäfer,SPD,14.02.1967,483,Amtswechsel,Er wurde Staatssekretär im Bundesministerium für Angelegenheiten des Bundes und der Länder.
+101,5,Edwin,Zerbe,SPD,02.05.1967,560,Landespolitik,Er konzentrierte sich auf sein Amt als Landrat des Landkreises Hersfeld (seit 1955).
+102,5,Otto,Eisenmann,FDP,01.06.1967,590,Landespolitik,Er wurde Arbeitsminister von Schleswig-Holstein.
+103,5,Heinrich,Holkenbrink,CDU,17.07.1967,636,Landespolitik,Er wurde Staatssekretär im Wirtschaftsministerium von Rheinland-Pfalz.
+104,5,Bernhard,Vogel,CDU,17.07.1967,636,Landespolitik,Er wurde Kultusminister von Rheinland-Pfalz.
+105,5,Hans,Lenz,FDP,05.10.1967,716,Gesundheit,Er verzichtete aus gesundheitlichen Gründen auf sein Mandat.
+106,5,Heiner,Geißler,CDU,11.10.1967,722,Landespolitik,Er wurde Sozialminister von Rheinland-Pfalz.
+107,5,Walter,Seuffert,SPD,18.10.1967,729,Sonstiges,Er wurde Vizepräsident des Bundesverfassungsgerichts.
+108,5,Josef,Effertz,FDP,04.03.1968,867,Landespolitik,Er wurde Regierungspräsident in Aachen.
+109,5,Peter,Blachstein,SPD,31.05.1968,955,Amtswechsel,Er wurde deutscher Botschafter in Jugoslawien.
+110,5,Josef,Stingl,CDU,15.06.1968,970,Amtswechsel,Er wurde Präsident der Bundesanstalt für Arbeit.
+111,5,Klaus,Hübner,SPD,14.01.1969,770,Amtswechsel,Er wurde Polizeipräsident von Berlin.
+112,5,Ursula,Krips,SPD,31.01.1969,1200,Amtswechsel,Sie wurde Oberregierungsrätin im Bundeswirtschaftsministerium.
+113,5,Gustav W.,Heinemann,SPD,24.06.1969,1344,Amtswechsel,Er wurde Bundespräsident.
+114,5,Hans,Richarts,CDU,16.09.1969,1428,Affäre,Er verzichtete auf sein Amt um kurz danch wieder einzutreten (u.a. wegen höherer Pensionsansprüche).
+115,5,Friedrich,Zimmermann,CSU,15.10.1969,1457,Affäre,Er verzichtete auf sein Amt um kurz danch wieder einzutreten (u.a. wegen höherer Pensionsansprüche).
+116,6,Bruno,Brandes,CDU,29.10.1969,9,Landespolitik,Er wurde Vorsitzender der CDU-Fraktion des niedersächsischen Landtags.
+117,6,Horst,Schmidt,SPD,03.11.1969,14,Landespolitik,"Er wurde Minister für Arbeit, Volkswohlfahrt und Gesundheitswesen des Landes Hessen."
+118,6,Kurt,Gscheidle,SPD,07.11.1969,18,Amtswechsel,Er wurde Staatssekretär im Bundesministerium für das Post- und Fernmeldewesen.
+119,6,Hans Stefan,Seifriz,SPD,06.01.1970,78,Landespolitik,Er wurde Bausenator in Bremen.
+120,6,Fritz-Rudolf,Schultz,FDP,11.03.1970,142,Amtswechsel,Er wurde Wehrbeauftragter des Deutschen Bundestags.
+121,6,Ilse,Elsner,SPD,14.05.1970,206,Landespolitik,"Sie wurde Senatorin, Bevollmächtigte der Freien und Hansestadt Hamburg in Bonn."
+122,6,Heinrich,Köppler,CDU,08.08.1970,292,Landespolitik,Er wurde Vorsitzender der CDU-Fraktion im Landtag von Nordrhein-Westfalen.
+123,6,Ralf,Dahrendorf,FDP,25.08.1970,309,Europapolitik,Er wurde Mitglied der Kommission der Europäischen Wirtschaftsgemeinschaft.
+124,6,Hans-Ulrich,Brand,SPD,03.11.1970,379,Affäre,"Er legte sein Mandat nieder, nachdem Kommunalpolitiker ihn wegen eines Grundstückshandels kritisiert hatten."
+125,6,Wolfgang,Rutschke,FDP,07.01.1971,444,Amtswechsel,Er wurde Ministerialdirektor im Bundesinnenministerium.
+126,6,Gerhard,Stoltenberg,CDU,03.06.1971,591,Landespolitik,Er wurde Ministerpräsident Schleswig-Holsteins.
+127,6,Harry,Liehr,SPD,16.07.1971,634,Landespolitik,Er wurde Senator für Arbeit und Soziales in Berlin.
+128,6,Karl-Heinz,Schmitz,CDU,25.08.1971,370,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+129,6,Wilhelm,Dröscher,SPD,12.10.1971,722,Landespolitik,Er wurde Vorsitzender der SPD-Fraktion im Landtag von Rheinland-Pfalz.
+130,6,Ernst,Benda,CDU,08.12.1971,779,Sonstiges,Er wurde Präsident des Bundesverfassungsgerichts.
+131,6,Martin,Hirsch,SPD,08.12.1971,779,Sonstiges,Er wurde Richter beim Bundesverfassungsgericht.
+132,6,Theodor,Blank,CDU,21.04.1972,914,Gesundheit,Er musste sein Mandat wegen einer schweren Krankheit niederlegen.
+133,6,Gerhard,Kienbaum,FDP,02.05.1972,925,Affäre,Er legte sein Mandat nach dem gescheiterten Misstrauensvotum gegen Willy Brandt nieder und trat der CDU bei.
+134,6,Knut,von Kühlmann-Stumm,FDP,30.05.1972,953,Affäre,Er legte sein Mandat nieder und verließ die FDP. Nach den Neuwahlen saß er für die CDU im Bundestag.
+135,6,Karl-Theodor,zu Guttenberg (1972),CSU,06.06.1972,960,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+136,6,Eduard,Adorno,CDU,21.08.1972,1036,Landespolitik,Er wurde Minister für Bundesangelegenheiten des Landes Baden-Württemberg.
+137,6,Annemarie,Griesinger,CDU,06.09.1972,1052,Landespolitik,Sie wurde Arbeitsministerin des Landes Baden-Württemberg.
+138,6,Heinrich,Schröder,CDU,12.09.1972,1058,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+139,6,Valentin,Dasch,CSU,15.09.1972,1061,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+140,6,Georg,Ehnes,CSU,19.09.1972,1065,Landespolitik,Er wurde Landrat des Landkreises Ansbach.
+141,7,Rudolf,Augstein,FDP,24.01.1973,42,Wirtschaft,"Der Herausgeber des ""Spiegel"" widmete sich wieder verstärkt dem Magazin. "
+142,7,Wilhelm,Nölling,SPD,20.05.1974,523,Landespolitik,Er wurde Gesundheitssenator in Hamburg.
+143,7,Hans,Hermsdorf,SPD,30.05.1974,533,Wirtschaft,Er wurde Präsident der Landeszentralbank in Hamburg.
+144,7,Walter,Scheel,FDP,27.06.1974,561,Amtswechsel,Er wurde Bundespräsident.
+145,7,Rötger,Groß,FDP,05.07.1974,569,Landespolitik,Er wurde Innenminister des Landes Niedersachsen.
+146,7,Günter,Wichert,SPD,10.09.1974,636,Landespolitik,Er wurde Staatssekretär im niedersächsischen Wissenschaftsministerium.
+147,7,Georg,Kahn-Ackermann,SPD,18.09.1974,644,Europapolitik,Er wurde erster deutscher Generalsekretär des Europarates.
+148,7,Werner,Staak,SPD,13.11.1974,700,Landespolitik,Er wurde Innensenator Hamburgs.
+149,7,Karl,Wienand,SPD,03.12.1974,720,Affäre,"Er legte sein Mandat nieder, weil er in mehrere Affären verstrickt war."
+150,7,Göke D.,Frerichs,CDU,15.01.1975,763,Wirtschaft,Er konzentrierte sich auf seine Arbeit als Vorstandsmitglied in der Pharmabranche.
+151,7,Karl Wilhelm,Berkhan,SPD,19.03.1975,826,Amtswechsel,Er wurde Wehrbeauftragter des Deutschen Bundestags.
+152,7,Gottfried,Wurche,SPD,03.06.1975,902,Landespolitik,Er wurde Bezirksbürgermeister von Berlin-Tiergarten.
+153,7,Friedhelm,Farthmann,SPD,05.06.1975,904,Landespolitik,Er wurde Arbeitsminister Nordrhein-Westfalens.
+154,7,Burkhard,Hirsch,FDP,05.06.1975,904,Landespolitik,Er wurde Innenminister Nordrhein-Westfalens.
+155,7,Uwe,Ronneburger,FDP,12.06.1975,911,Landespolitik,Er wurde Vorsitzender der FDP-Fraktion des Landtages von Schleswig-Holstein.
+156,7,Helmut,Prassler,CDU,03.11.1975,1055,Landespolitik,Er wurde Präsident der Landesanstalt für Umweltschutz Baden-Württemberg.
+157,7,Walther,Leisler Kiep,CDU,24.02.1976,1168,Landespolitik,Er wurde Finanzminister Niedersachsens.
+158,7,Carl-Ludwig,Wagner,CDU,08.04.1976,1212,Landespolitik,Er wurde Oberbürgermeister der Stadt Trier.
+159,7,Erhard,Eppler,SPD,03.06.1976,1268,Landespolitik,Er wurde Vorsitzender der SPD-Fraktion des Landtages von Baden-Württemberg.
+160,7,Kurt,Härzschel,CDU,23.09.1976,1380,Landespolitik,Er wurde Staatssekretär im Arbeitsministerium des Landes Baden-Württemberg.
+161,7,Holger,Börner,SPD,22.10.1976,1409,Landespolitik,Er wurde Ministerpräsident des Landes Hessen.
+162,8,Peter,Lorenz,CDU,23.02.1977,71,Landespolitik,Er konzentrierte sich auf sein Amt als Präsident des Berliner Abgeordnetenhauses (seit 1975).
+163,8,Peter,Glotz,SPD,16.05.1977,153,Landespolitik,Er wurde Wissenschaftssenator in Berlin.
+164,8,Olaf,Sund,SPD,17.05.1977,154,Landespolitik,Er wurde Arbeitssenator in Berlin.
+165,8,Norbert,Nothhelfer,CDU,09.06.1977,177,Landespolitik,Er konzentrierte sich auf sein Amt als Landrat im Landkreis Waldshut (seit 1973).
+166,8,Walter,Wallmann,CDU,14.06.1977,182,Landespolitik,Er wurde Oberbürgermeister der Stadt Frankfurt am Main..
+167,8,Georg,Gölter,CDU,08.07.1977,206,Landespolitik,"Er wurde Minister für Soziales, Gesundheit und Sport von Rheinland-Pfalz."
+168,8,Albert,Leicht,CDU,24.10.1977,314,Amtswechsel,Er wurde Präsident des Europäischen Rechnungshofes.
+169,8,Hans,Friderichs,FDP,08.11.1977,329,Wirtschaft,Er wurde Vorstandssprecher der Dresdner Bank AG.
+170,8,Karl,Ravens,SPD,15.06.1978,548,Landespolitik,Er wurde Vorsitzender der SPD-Fraktion im Landtag von Niedersachsen.
+171,8,Heinz,Eyrich,CDU,16.10.1978,671,Landespolitik,Er wurde Justizminister von Baden-Württemberg.
+172,8,Franz Josef ,Strauß,CSU,29.11.1978,715,Landespolitik,Er wurde Ministerpräsident von Bayern.
+173,8,Peter M. ,Schmidhuber,CSU,06.12.1978,722,Landespolitik,Er wurde bayerischer Staatsminister für Bundesangelegenheiten.
+174,8,Karl,Carstens,CDU,29.06.1979,927,Amtswechsel,Er wurde Bundespräsident.
+175,8,Werner,Zeyer,CDU,10.07.1979,938,Landespolitik,Er wurde Ministerpräsident des Saarlandes.
+176,8,Franz-Josef,Nordlohne,CDU,04.09.1979,994,Europapolitik,Er wurde Mitglied des Europaparlaments.
+177,8,Philipp,von Bismarck,CDU,06.09.1979,996,Europapolitik,Er wurde Mitglied des Europaparlaments.
+178,8,Jürgen,Wohlrabe,CDU,11.09.1979,1001,Landespolitik,Er wurde stellv. Vorsitzender der CDU-Fraktion im Berliner Abgeordnetenhaus.
+179,8,Liselotte,Funcke,FDP,23.11.1979,1074,Landespolitik,Sie wurde Wirtschaftsministerin von Nordrhein-Westfalen.
+180,8,Conrad,Ahlers,SPD,07.03.1980,1179,Sonstiges,Er wurde Intendant der Deutschen Welle.
+181,8,Gerhard,Zeitel,CDU,03.09.1980,1359,Landespolitik,Er wurde Finanzminister des Saarlandes.
+182,9,Burkhard,Ritz,CDU,02.12.1980,28,Landespolitik,Er wurde Finanzminister des Landes Niedersachsen.
+183,9,Alfons,Pawelczyk,SPD,18.12.1980,44,Landespolitik,Er wurde Innensenator von Hamburg.
+184,9,Karl-Heinz,Narjes,CDU,09.01.1981,66,Europapolitik,Er wurde EG-Kommissar.
+185,9,Konrad,Porzner,SPD,28.01.1981,85,Landespolitik,Er wurde Finanzsenator von Berlin.
+186,9,Reinhard,Ueberhorst,SPD,28.01.1981,85,Landespolitik,Er wurde Senator für Gesundheit und Umweltschutz von Berlin.
+187,9,Hans-Jochen,Vogel,SPD,28.01.1981,85,Landespolitik,Er wurde Regierender Bürgermeister von Berlin (für nur rund fünf Monate).
+188,9,Guido,Brunner,FDP,28.01.1981,85,Landespolitik,Er wurde Bürgermeister und Wirtschaftssenator von Berlin.
+189,9,Eberhard,Diepgen,CDU,03.02.1981,91,Landespolitik,Er wurde Vorsitzender der CDU-Fraktion im Abgeordnetenhaus von Berlin.
+190,9,Norbert,Blüm,CDU,15.06.1981,223,Landespolitik,Er wurde Senator für Bundesangelegenheiten des Landes Berlin.
+191,9,Gerhard,Kunz,CDU,15.06.1981,223,Landespolitik,Er wurde Finanzsenator des Landes Berlin.
+192,9,Richard,von Weizsäcker,CDU,15.06.1981,223,Landespolitik,Er wurde Regierender Bürgermeister von Berlin.
+193,9,Klaus-Jürgen,Hoffie,FDP,25.06.1981,233,Landespolitik,Er wurde Minister für Wirtschaft und Technik des Landes Hessen.
+194,9,Klaus,von Dohnanyi,SPD,26.06.1981,234,Landespolitik,Er wurde Erster Bürgermeister der Freien und Hansestadt Hamburg.
+195,9,Elmar,Pieroth,CDU,16.07.1981,254,Landespolitik,Er wurde Senator für Wirtschaft und Verkehr des Landes Berlin.
+196,9,Marie,Schlei,SPD,03.11.1981,364,Gesundheit,Sie musste ihr Mandat aus gesundheitlichen Gründen wegen eines Krebsleidens niederlegen.
+197,9,Olaf,von Wrangel,CDU,03.04.1982,515,Wirtschaft,Er wurde Programmdirektor des NDR-Hörfunks.
+198,9,Walther,Leisler Kiep,CDU,26.04.1982,538,Landespolitik,Er wurde CDU-Spitzenkandidat für die Hamburger Bürgerschaftswahl (zweite Niederlegung).
+199,9,Paul,Röhner,CSU,11.05.1982,553,Landespolitik,Er wurde Oberbürgermeister von Bamberg.
+200,9,Hans-Joachim,Jentsch,CDU,08.09.1982,673,Landespolitik,Er wurde Oberbürgermeister von Wiesbaden.
+201,9,Ingrid,Matthäus-Maier,FDP,02.12.1982,758,Affäre,Wegen eines Bruchs mit der sozial-liberalen Koalition legte sie ihr Mandat nieder und wechselte zur SPD.
+202,9,Rolf,Böhme,SPD,02.12.1982,758,Landespolitik,Er wurde Oberbürgermeister der Stadt Freiburg im Breisgau.
+203,9,Andreas,von Schoeler,FDP,08.12.1982,764,Affäre,Wegen eines Bruchs mit der sozial-liberalen Koalition legte er sein Mandat nieder und wechselte zur SPD.
+204,9,Helga,Schuchardt,fraktionslos,10.02.1983,828,Landespolitik,"Sie verzichtete auf ihr Mandat, trat aus der FDP aus und wurde Kultursenatorin von Hamburg."
+205,9,Eicke,Götz,CSU,08.03.1983,854,Sonstiges,"Er verzichtete aus ""privaten Gründen"" auf sein Mandat."
+206,10,Klaus,Hecker,GRüNE,31.08.1983,155,Affäre,"Er legte sein Mandat nieder, nachdem er Kolleginnen an die Brüste fasste, dies verteidigte und dafür heftig kritisiert wurde."
+207,10,Manfred,Lahnstein,SPD,31.08.1983,155,Wirtschaft,Er wurde Vorstandsmitglied der Bertelsmann AG.
+208,10,Jürgen,Linde,SPD,10.11.1983,226,Landespolitik,Er wurde Oberstadtdirektor in Gelsenkirchen.
+209,10,Claus,Grobecker,SPD,14.11.1983,230,Landespolitik,Er wurde Senator für Arbeit der Freien Hansestadt Bremen.
+210,10,Lothar,Haase,CDU,05.12.1983,251,Amtswechsel,Er wurde Präsidiumsmitglied des Europäischen Rechnungshofes in Luxemburg.
+211,10,Hans Hugo,Klein,CDU,20.12.1983,266,Sonstiges,Er wurde Richter am Bundesverfassungsgericht.
+212,10,Carl Otto,Lenz,CDU,13.01.1984,290,Sonstiges,Er wurde Generalanwalt beim Europäischen Gerichtshof in Luxemburg.
+213,10,Horst,Schröder,CDU,22.03.1984,359,Wirtschaft,Er wurde Geschäftsführer der Deutschen Finanzierungsgesellschaft für Beteiligungen in Entwicklungsländern.
+214,10,Heinrich,Franke,CDU,09.04.1984,377,Amtswechsel,Er wurde Präsident der Bundesanstalt für Arbeit.
+215,10,Rainer,Offergeld,SPD,01.06.1984,430,Landespolitik,Er wurde Oberbürgermeister von Lörrach.
+216,10,Klaus,Hartmann,CSU,04.06.1984,433,Landespolitik,Er wurde Landrat des Kreises Nürnberger Land.
+217,10,Horst,Gobrecht,SPD,29.06.1984,458,Landespolitik,Er wurde Finanzsenator von Hamburg.
+218,10,Christa,Czempiel,SPD,05.07.1984,464,Landespolitik,Sie wurde Staatssekretärin und Bevollmächtigte Hessens beim Bund.
+219,10,Ulrich,Steger,SPD,09.07.1984,468,Landespolitik,Er wurde Staatsminister für Wirtschaft und Technik von Hessen.
+220,10,Franz Ludwig Schenk ,Graf von Stauffenberg,CSU,20.11.1984,602,Europapolitik,Er wurde Mitglied des Europäischen Parlaments.
+221,10,Richard,Wurbs,FDP,13.12.1984,625,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+222,10,Gert,Jannsen,GRüNE,01.03.1985,703,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+223,10,Erika,Hickel,GRüNE,09.03.1985,711,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+224,10,Julius H.,Krizsan,GRüNE,13.03.1985,715,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+225,10,Dieter,Burgmann,GRüNE,15.03.1985,717,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+226,10,Jürgen,Reents,GRüNE,19.03.1985,721,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+227,10,Willi,Weiskirch,CDU,20.03.1985,722,Amtswechsel,Er wurde Wehrbeauftragter des Deutschen Bundestages.
+228,10,Wolfgang,Ehmke,GRüNE,28.03.1985,730,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+229,10,Joschka,Fischer,GRüNE,29.03.1985,731,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+230,10,Hans,Verheyen,GRüNE,30.03.1985,732,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+231,10,Dirk,Schneider,GRüNE,30.03.1985,732,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+232,10,Christa,Nickels,GRüNE,30.03.1985,732,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+233,10,Sabine,Bard,GRüNE,31.03.1985,733,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+234,10,Dieter,Drabiniok,GRüNE,31.03.1985,733,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+235,10,Gabriele,Gottwald,GRüNE,31.03.1985,733,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+236,10,Waltraud,Schoppe,GRüNE,31.03.1985,733,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+237,10,Eckhard,Stratmann-Mertens,GRüNE,31.03.1985,733,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+238,10,Antje,Vollmer,GRüNE,02.04.1985,735,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+239,10,Gabriele,Potthast,GRüNE,03.04.1985,736,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+240,10,Hans-Joachim,Hoffmann,SPD,11.04.1985,744,Landespolitik,Er wurde Wirtschaftsminister des Saarlands.
+241,10,Willi,Hoss,GRüNE,12.04.1985,745,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+242,10,Marieluise,Beck,GRüNE,14.04.1985,747,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+243,10,Walter,Althammer,CSU,14.04.1985,747,Wirtschaft,Er wurde stellv. Vorstandsvorsitzender der Lastenausgleichsbank.
+244,10,Christa,Reetz,GRüNE,16.04.1985,749,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+245,10,Walter,Sauermilch,GRüNE,16.04.1985,749,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+246,10,Walter,Schwenninger,GRüNE,16.04.1985,749,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+247,10,Roland,Vogt,GRüNE,18.06.1985,812,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+248,10,Milan,Horacek,GRüNE,03.10.1985,762,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+249,10,Wolfgang,Hackel,CDU,01.12.1985,978,Europapolitik,Er wurde Mitglied des Europäischen Parlamentes.
+250,10,Hubert,Kleinert,GRüNE,19.01.1986,1027,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+251,10,Otto,Schily,GRüNE,13.03.1986,1080,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+252,10,Gerhard,Schröder,SPD,01.07.1986,1190,Landespolitik,Er wurde SPD-Fraktionsvorsitzender im niedersächsischen Landtag.
+253,11,Franz Josef,Strauß,CSU,19.03.1987,29,Landespolitik,Er konzentrierte sich auf sein Amt als bayerischer Ministerpräsident (zweite Niederlegung).
+254,11,Walter,Wallmann,CDU,29.04.1987,70,Landespolitik,Er wurde Ministerpräsident des Landes Hessen.
+255,11,Wolfgang,Rumpf,FDP,06.08.1987,169,Landespolitik,Er wurde Staatssekretär im Landwirtschaftsministerium Rheinland-Pfalz.
+256,11,Karl,Miltner,CDU,20.05.1988,457,Landespolitik,Er wurde Regierungspräsident in Karlsruhe.
+257,11,Dieter,Spöri,SPD,05.06.1988,473,Landespolitik,Er wurde SPD-Fraktionsvorsitzender im Landtag von Baden-Württemberg.
+258,11,Heide,Simonis,SPD,08.06.1988,476,Landespolitik,Sie wurde Finanzministerin des Landes Schleswig-Holstein.
+259,11,Günther,Jansen,SPD,16.06.1988,484,Landespolitik,"Er wurde Minister für Soziales, Gesundheit und Energie des Landes Schleswig-Holstein."
+260,11,Manfred,Wörner,CDU,30.06.1988,498,Amtswechsel,Er wurde Nato-Generalsekretär.
+261,11,Alfred,Sauter,CSU,06.07.1988,504,Landespolitik,Er wurde Staatssekretär im Bayerischen Staatsministerium für Bundes- und Europaangelegenheiten.
+262,11,Karl Heinz,Lemmrich,CSU,28.07.1988,526,Wirtschaft,Er wurde Vorstandsmitglied der Rhein-Main-Donau AG.
+263,11,Marliese,Dobberthien,SPD,29.08.1988,425,Landespolitik,Sie wurde Staatsrätin im Hamburger Senat.
+264,11,Martin,Bangemann,FDP,05.01.1989,687,Europapolitik,Er wurde Mitglied der Kommission der Europäischen Gemeinschaften.
+265,11,Regula,Schmidt-Bott,GRüNE,18.02.1989,731,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+266,11,Thomas,Ebermann,GRüNE,18.02.1989,731,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+267,11,Ellen,Olms,GRüNE,20.02.1989,733,Rotation,Sie legte ihr Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+268,11,Peter,Sellin,GRüNE,20.02.1989,733,Rotation,Er legte sein Mandat aufgrund des vereinbarten Rotationsprinzips der Grünen nieder.
+269,11,Verena,Krieger,GRüNE,04.04.1989,776,Amtswechsel,Sie wurde Sprecherin der Grünen.
+270,11,Peter,Mitzscherling,SPD,10.05.1989,812,Landespolitik,Er wurde Wirtschaftssenator von Berlin.
+271,11,Anke,Martiny-Glotz,SPD,22.05.1989,824,Landespolitik,Sie wurde Senatorin für Kulturelle Angelegenheiten von Berlin.
+272,11,Volker,Hauff,SPD,14.06.1989,847,Landespolitik,Er wurde Oberbürgermeister von Frankfurt am Main.
+273,11,Honor,Funk,CDU,24.08.1989,918,Europapolitik,Er wurde Mitglied des Europäischen Parlaments.
+274,11,Doris,Pack,CDU,08.09.1989,933,Europapolitik,Sie wurde Mitglied des Europäischen Parlaments.
+275,11,Otto,Schily,SPD,07.11.1989,993,Affäre,Er legte sein Mandat nieder und wechselte von den Grünen zur SPD (zweite Niederlegung).
+276,11,Dieter,Weirich,CDU,05.12.1989,951,Sonstiges,Er wurde Intendant der Deutschen Welle.
+277,11,Bernhard,Friedmann,CDU,05.02.1990,1083,Amtswechsel,Er wurde Mitglied im Präsidium des Europäischen Rechnungshofes.
+278,11,Gabriele,Rost,CDU,16.02.1990,143,Landespolitik,Sie wurde Mitglied des Berliner Abgeordnetenhauses.
+279,11,Reinhold,Kreile,CSU,22.02.1990,591,Sonstiges,Er wurde Vorstand und Generaldirektor der Gema.
+280,11,Alfred,Biehle,CSU,27.04.1990,1164,Amtswechsel,Er wurde Wehrbeauftragter des Deutschen Bundestags.
+281,11,Margit,Conrad,SPD,31.05.1990,1198,Landespolitik,Sie wurde Mitglied des saarländischen Landtags.
+282,11,Waltraud,Schoppe,GRüNE,21.06.1990,1219,Landespolitik,Sie wurde Frauenministerin von Niedersachsen (zweite Niederlegung).
+283,11,Manfred,Scherrer,SPD,31.08.1990,1290,Landespolitik,Er wurde Oberbürgermeister der Stadt Neuwied.
+284,11,Konrad,Porzner,SPD,02.10.1990,1322,Amtswechsel,Er wurde Präsident des Bundesnachrichtendienstes (zweite Niederlegung).
+285,11,Joachim,Gauck,GRüNE,04.10.1990,2,Amtswechsel,"Er wurde Bundesbeauftragter für die Stasi-Unterlagen (""Gauck-Behörde"")."
+286,11,Kurt H.,Biedenkopf,CDU,09.11.1990,1360,Landespolitik,Er wurde Ministerpräsident von Sachsen.
+287,12,Bernhard,Worms,CDU,31.01.1991,42,Amtswechsel,Er wurde Staatssekretär im Bundesministerium für Arbeit und Sozialordnung.
+288,12,Wolfgang,Kubicki,FDP,31.01.1991,42,Landespolitik,Er wurde FDP-Vorsitzender im Landtag von Schleswig-Holstein.
+289,12,Hans,Geisler,CDU,12.02.1991,54,Landespolitik,"Er wurde Staatsminister für Soziales, Gesundheit und Familie von Sachsen."
+290,12,Florian,Gerster,SPD,07.06.1991,169,Landespolitik,Er wurde Minister für Bundesangelegenheiten und Europa des Landes Rheinland-Pfalz.
+291,12,Rose,Götte,SPD,07.06.1991,169,Landespolitik,Sie wurde Ministerin für Bildung und Kultur von Rheinland-Pfalz.
+292,12,Peter,Zumkley,SPD,03.07.1991,195,Landespolitik,Er wurde Senator in Hamburg.
+293,12,Lothar,de Maizière,CDU,15.10.1991,299,Affäre,Er verzichtete nach einem Medienbericht über seine Stasivergangenheit auf sein Mandat.
+294,12,Conrad,Schroeder,CDU,20.10.1991,304,Landespolitik,Er wurde Regierungspräsident des Regierungsbezirks Freiburg.
+295,12,Jutta,Braband,LINKE/PDS/LL,02.05.1992,499,Affäre,Nach Diskussionen um ihre Stasi-Vergangenheit legte sie ihr Mandat nieder.
+296,12,Heinz Werner,Hübner,FDP,12.05.1992,509,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+297,12,Herbert,Helmrich,CDU,21.05.1992,518,Landespolitik,Er wurde Justizminister von Mecklenburg-Vorpommern.
+298,12,Ottfried,Hennig,CDU,31.05.1992,528,Landespolitik,Er wurde Vorsitzender der CDU-Fraktion des Landtages Schleswig-Holstein.
+299,12,Harald B.,Schäfer,SPD,27.06.1992,555,Landespolitik,Er wurde Umweltminister von Baden-Württemberg.
+300,12,Heike,Niggemeyer,SPD,29.10.1992,7,Sonstiges,Sie legte ihr Mandat aus beruflichen Gründen nieder.
+301,12,Franz,Müntefering,SPD,08.12.1992,719,Landespolitik,Er wurde Arbeitsminister von Nordrhein-Westfalen.
+302,12,Hans-Joachim,Sopart,CDU,03.01.1993,745,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+303,12,Bernhard,Jagoda,CDU,07.02.1993,780,Amtswechsel,Er wurde Präsident der Bundesanstalt für Arbeit.
+304,12,Harald,Schreiber,CDU,30.06.1993,923,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+305,12,Wolfgang,Roth,SPD,02.09.1993,987,Wirtschaft,Er wurde Vizepräsident der Europäischen Investitionsbank.
+306,12,Gerhard O.,Pfeffermann,CDU,06.09.1993,991,Amtswechsel,Er wurde Staatssekretär im Bundesministerium für Post und Telekommunikation.
+307,12,Hedda,Meseke,CDU,06.12.1993,1082,Amtswechsel,Sie wurde Präsidentin des Bundesrechnungshofes.
+308,12,Bertram,Wieczorek,CDU,31.01.1994,1138,Wirtschaft,Er wurde Vorstandsvorsitzender der Berliner Wasserbetriebe.
+309,12,Heribert,Scharrenbroich,CDU,23.03.1994,1189,Amtswechsel,Er wurde Staatssekretär des Bundesministeriums für Familie und Senioren.
+310,12,Joachim,Gr. v. Schönburg-Glauchau,CDU,30.06.1994,1288,Landespolitik,Er wurde Mitglied des Stadtrates von Lunzenau.
+311,12,Gerlinde,Hämmerle,SPD,31.07.1994,1319,Landespolitik,Sie wurde Regierungspräsidentin des Regierungsbezirks Karlsruhe.
+312,12,Barbara,Weiler,SPD,14.08.1994,1333,Europapolitik,Sie wurde Mitglied des Europäischen Parlaments.
+313,12,Ralf,Walter,SPD,21.08.1994,1168,Europapolitik,Er wurde Mitglied des Europäischen Parlaments.
+314,13,Oskar,Lafontaine,SPD,17.11.1994,7,Landespolitik,Er konzentrierte sich auf sein Amt als Ministerpräsident des Saarlandes (seit 1985).
+315,13,Hans Gottfried,Bernrath,SPD,31.12.1994,51,Amtswechsel,Er wurde Vorstandsvorsitzender der Bundesanstalt für Post und Telekommunikation.
+316,13,Claire,Marienfeld,CDU,28.04.1995,169,Amtswechsel,Sie wurde Wehrbeauftragte des Deutschen Bundestages.
+317,13,Stefan,Heym,LINKE/PDS,31.10.1995,355,Affäre,Er legte sein Mandat aus Protest gegen eine geplante Diätenerhöhung nieder.
+318,13,Kurt,Faltlhauser,CSU,20.11.1995,375,Landespolitik,Er wurde Bayerischer Staatsminister und Leiter der Staatskanzlei.
+319,13,Heinz,Lanfermann,FDP,07.02.1996,454,Amtswechsel,Er wurde Staatssekretär im Bundesjustizministerium.
+320,13,Rainder,Steenblock,GRüNE,01.06.1996,569,Landespolitik,Er wurde Umweltminister von Schleswig-Holstein.
+321,13,Simon,Wittmann,CSU,21.08.1996,650,Landespolitik,Er wurde Landrat des Landkreises Neustadt an der Waldnaab.
+322,13,Peter,Glotz,SPD,24.09.1996,684,Sonstiges,Er wurde Gründungsrektor der Universität Erfurt (zweite Niederlegung).
+323,13,Dietmar,Thieser,SPD,19.12.1996,770,Landespolitik,Er konzentrierte sich auf sein Amt als Oberbürgermeister von Hagen (seit 1989).
+324,13,Norbert,Gansel,SPD,16.06.1997,949,Landespolitik,Er wurde Oberbürgermeister von Kiel.
+325,13,Roland,Richwien,CDU,04.11.1997,1090,Landespolitik,Er wurde Staatssekretär im Thüringer Wirtschaftsministerium.
+326,13,Arne,Börnsen,SPD,06.01.1998,1153,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+327,13,Klaus,Töpfer,CDU,01.03.1998,1207,Sonstiges,Er wurde Exekutivdirektor des Umweltprogramms der Vereinten Nationen in Nairobi.
+328,13,Josef,Vosen,SPD,03.06.1998,1301,Landespolitik,Er wurde Bürgermeister von Düren.
+329,14,Oskar,Lafontaine,SPD,16.03.1999,141,Affäre,Er legte sein Mandat und alle ämter wegen „schlechten Mannschaftsspiels“ in der Regierung nieder (zweite Niederlegung)
+330,14,Wilhelm,Dietzel,CDU,12.04.1999,168,Landespolitik,Er wurde Minister für Umwelt und Landwirtschaft in Hessen.
+331,14,Ingrid,Matthäus-Maier,SPD,01.07.1999,248,Wirtschaft,Sie wurde Vorstandsmitglied der Kreditanstalt für Wiederaufbau (zweite Niederlegung).
+332,14,Günter,Verheugen,SPD,15.09.1999,324,Europapolitik,Er wurde EU-Kommissar für die Erweiterungsverhandlungen.
+333,14,Dieter,Pützhofen,CDU,30.09.1999,339,Landespolitik,Er wurde Oberbürgermeister von Leverkusen.
+334,14,Peter,Jacoby,CDU,19.10.1999,358,Landespolitik,Er wurde Finanzminister im Saarland.
+335,14,Manfred,Kanther,CDU,25.01.2000,456,Affäre,Er legte sein Mandat wegen der so genannten Schwarzgeld-Affäre nieder.
+336,14,Ernst,Schwanhold,SPD,21.02.2000,483,Landespolitik,Er wurde Wirtschaftsminister in Nordrhein-Westfalen.
+337,14,Klaus Wolfgang,Müller,GRüNE,31.03.2000,522,Landespolitik,Er wurde Umweltminister in Schleswig-Holstein.
+338,14,Willfried,Penner,SPD,11.05.2000,563,Amtswechsel,Er wurde Wehrbeauftragter des Deutschen Bundestags.
+339,14,Jürgen W.,Möllemann,FDP,05.06.2000,588,Landespolitik,Er wurde Landtagsmitglied und Vorsitzender der FDP-Fraktion in Nordrhein-Westfalen.
+340,14,Jürgen,Rüttgers,CDU,05.06.2000,588,Landespolitik,Er wurde Landtagsmitglied und Vorsitzender der CDU-Fraktion in Nordrhein-Westfalen.
+341,14,Rudolf,Dreßler,SPD,31.08.2000,675,Amtswechsel,Er wurde deutscher Botschafter in Israel.
+342,14,Manfred,Kolbe,CDU,02.10.2000,707,Landespolitik,Er wurde Justizminister in Sachsen.
+343,14,Claudia,Roth,GRüNE,31.03.2001,887,Amtswechsel,Sie wurde Bundesvorsitzende der Grünen.
+344,14,Olaf,Scholz,SPD,06.06.2001,954,Landespolitik,Er wurde Innensenator von Hamburg.
+345,14,Eberhard,Brecht,SPD,30.06.2001,978,Landespolitik,Er wurde Bürgermeister von Quedlinburg.
+346,14,Paul,Krüger,CDU,14.08.2001,1023,Landespolitik,Er wurde Oberbürgermeister von Neubrandenburg.
+347,14,Dietmar,Schütz,SPD,31.10.2001,1101,Landespolitik,Er wurde Oberbürgermeister von Oldenburg.
+348,14,Gunnar,Uldall,CDU,06.11.2001,1107,Landespolitik,Er wurde Wirtschaftssenator von Hamburg.
+349,14,Birgit,Schnieber-Jastram,CDU,07.11.2001,1108,Landespolitik,Sie wurde Senatorin für Soziales und Familie in Hamburg.
+350,14,Gregor,Gysi,LINKE/PDS,01.02.2002,1194,Landespolitik,"Er wurde Bürgermeister und Senator für Wirtschaft, Arbeit und Frauen in Berlin."
+351,14,Heidi,Knake-Werner,LINKE/PDS,17.02.2002,1210,Landespolitik,"Sie wurde Senatorin für Gesundheit, Soziales und Verbraucherschutz in Berlin."
+352,14,Norbert,Hauser,CDU,09.04.2002,1261,Amtswechsel,Er wurde Vizepräsident des Bundesrechnungshofes.
+353,14,Klaus,Holetschek,CSU,06.05.2002,1288,Landespolitik,Er wurde Bürgermeister von Bad Wörishofen.
+354,14,Cornelia,Pieper,FDP,31.05.2002,1313,Landespolitik,Sie wurde Landtagsmitglied und Vorsitzende der FDP-Fraktion in Sachsen-Anhalt.
+355,14,Peter,Friedrich,SPD,13.09.2002,1418,Sonstiges,Kein Grund oder neues Amt offiziell angegeben.
+356,15,Ingo,Wolf,FDP,08.11.2002,22,Landespolitik,Er wurde Vorsitzender des FDP-Fraktion im Landtag von Nordrhein-Westfalen.
+357,15,Wolfgang,Kubicki,FDP,09.12.2002,53,Landespolitik,Er wurde Landtagsmitglied in Schleswig-Holstein (zweite Niederlegung).
+358,15,Christian,Eberl,FDP,20.03.2003,154,Landespolitik,Er wurde Staatssekretär im niedersächsischen Umweltministerium.
+359,15,Angelika,Volquartz,CDU,16.06.2003,242,Landespolitik,Sie wurde Oberbürgermeisterin von Kiel.
+360,15,Paul,Breuer,CDU,27.06.2003,253,Landespolitik,Er wurde Landrat des Kreises Siegen-Wittgenstein.
+361,15,Christoph,Matschie,SPD,01.07.2004,623,Landespolitik,Er wurde Vorsitzender der SPD-Fraktion im Thüringer Landtag.
+362,15,Tanja,Gönner,CDU,13.07.2004,635,Landespolitik,Sie wurde Sozialministerin in Baden-Württemberg.
+363,15,Albert,Deß,CSU,18.07.2004,640,Europapolitik,Er wurde Mitglied des Europäischen Parlaments.
+364,15,Ernst,Küchler,SPD,15.10.2004,729,Landespolitik,Er wurde Oberbürgermeister von Leverkusen.
+365,15,Hubert,Ulrich,GRüNE,19.10.2004,733,Landespolitik,Er wurde Vorsitzender der Grünen-Fraktion im saarländischen Landtag.
+366,15,Jochen,Welt,SPD,22.10.2004,736,Landespolitik,Er wurde Landrat des Kreises Recklinghausen.
+367,15,Christoph,Hartmann,FDP,01.11.2004,746,Landespolitik,Er wurde Vorsitzender der FDP-Fraktion im saarländischen Landtag.
+368,15,Antje,Hermenau,GRüNE,19.12.2004,794,Landespolitik,Sie wurde Fraktionsvorsitzende der Grünen im sächsischen Landtag.
+369,15,Jann-Peter,Janssen,SPD,24.01.2005,830,Affäre,"Nachdem bekannt wurde, dass er entgegen früherer Angaben als Abgeordneter Geld von VW bekam, legte er sein Mandat nieder."
+370,15,Peter H.,Carstensen,CDU,20.04.2005,916,Landespolitik,Er wurde Ministerpräsident in Schleswig-Holstein.
+371,15,Dietrich,Austermann,CDU,04.05.2005,930,Landespolitik,"Er wurde Minister für Wissenschaft, Wirtschaft und Verkehr in Schleswig Holstein."
+372,15,Reinhold,Robbe,SPD,12.05.2005,938,Amtswechsel,Er wurde Wehrbeauftragter des Deutschen Bundestags.
+373,15,Walter,Hoffmann,SPD,25.06.2005,982,Landespolitik,Er wurde Oberbürgermeister von Darmstadt.
+374,15,Karl-Josef,Laumann,CDU,28.06.2005,985,Landespolitik,Er wurde Arbeitsminister in Nordrhein-Westfalen.
+375,15,Andreas,Pinkwart,FDP,28.06.2005,985,Landespolitik,Er wurde Forschungsminister in Nordrhein-Westfalen.
+376,15,Heinz,Seiffert,CDU,18.07.2005,1005,Landespolitik,Er wurde Landrat des Alb-Donau-Kreises.
+377,16,Edmund,Stoiber,CSU,08.11.2005,21,Landespolitik,Er wurde Ministerpräsident in Bayern.
+378,16,Günther,Beckstein,CSU,23.11.2005,36,Landespolitik,Er wurde Innenminister und stellv. Ministerpräsident in Bayern.
+379,16,Gerhard,Schröder,SPD,24.11.2005,37,Sonstiges,Er zog sich nach der verlorenen Bundestagswahl aus der Politik zurück (zweite Niederlegung).
+380,16,Peter,Müller,CDU,26.11.2005,39,Landespolitik,Er wurde Ministerpräsident des Saarlandes.
+381,16,Joschka,Fischer,GRüNE,01.09.2006,318,Sonstiges,Er wurde Dozent an der amerikanischen Universität Princeton (zweite Niederlegung).
+382,16,Friedbert,Pflüger,CDU,25.11.2006,403,Landespolitik,Er wurde CDU-Fraktionsvorsitzender im Berliner Abgeordnetenhaus.
+383,16,Matthias,Berninger,GRüNE,20.02.2007,490,Wirtschaft,Er wechselte zum Nahrungsmittelunternehmen Mars Inc. Europa und agierte als Lobbyist.
+384,16,Hans-Jürgen,Uhl,SPD,01.06.2007,591,Affäre,Er legte sein Bundestagsmandat infolge der sogenannten VW-Affäre um Lustreisen nieder.
+385,16,Matthias,Wissmann,CDU,01.06.2007,591,Wirtschaft,Er wurde Verbandspräsident der Automobilindustrie und agierte als Lobbyist.
+386,16,Reinhard,Göhner,CDU,07.07.2007,627,Wirtschaft,Er wurde Aufsichtsratsvorsitzender der Unternehmensberatung CentConsult.
+387,16,Reinhard,Loske,GRüNE,01.09.2007,683,Landespolitik,Er wurde Bremer Umweltsenator.
+388,16,Peter,Paziorek,CDU,01.09.2007,683,Landespolitik,Er wurde Regierungspräsident von Münster.
+389,16,Georg,Fahrenschon,CSU,08.11.2007,751,Landespolitik,Er wurde Staatssekretär im bayerischen Finanzministerium.
+390,16,Carl-Eduard,von Bismarck,CDU,10.12.2007,783,Affäre,"Er legte sein Mandat nieder, nachdem er als ""Deutschlands faulster Politiker"" in die Schlagzeilen geraten war."
+391,16,Margareta,Wolf,GRüNE,04.01.2008,808,Wirtschaft,Sie wurde Managing Director bei Deekeling Arndt Advisors.
+392,16,Anja,Hajduk,GRüNE,08.05.2008,933,Landespolitik,Sie wurde Senatorin für Stadtentwicklung und Umwelt in Hamburg.
+393,16,Bernward,Müller,CDU,09.05.2008,934,Landespolitik,Er wurde Kultusminister in Thüringen.
+394,16,Hildegard,Müller,CDU,01.10.2008,1079,Wirtschaft,Sie wurde Vorsitzende des Bundesverbandes der Energie- und Wasserwirtschaft und agierte als Lobbyistin.
+395,16,Jörg,Rohde,FDP,31.10.2008,1109,Landespolitik,Er wurde Vizepräsident des bayerischen Landtags.
+396,16,Martin,Zeil,FDP,01.11.2008,1110,Landespolitik,Er wurde Wirtschaftsminister in Bayern.
+397,16,Horst,Seehofer,CSU,04.11.2008,1113,Landespolitik,Er wurde Ministerpräsident in Bayern.
+398,16,Ditmar,Staffelt,SPD,11.01.2009,1181,Wirtschaft,Er wurde Vorstandsbeauftragter für Politik und Regierungsarbeiten bei EADS und agierte als Lobbyist.
+399,16,Ralf,Göbel,CDU,01.03.2009,1230,Amtswechsel,Er wurde Vizepräsident des Bundespolizeipräsidiums in Potsdam.
+400,16,Rainer,Wend,SPD,31.03.2009,1260,Wirtschaft,Er wurde Leiter des Zentralbereichs Politik und Nachhaltigkeit bei der Deutschen Post und agierte als Lobbyist.
+401,16,Frank,Schmidt,SPD,24.05.2009,1314,Landespolitik,Er wurde Bürgermeister der Gemeinde Löhnberg.
+402,16,Lothar,Bisky,LINKE/PDS,13.07.2009,1364,Europapolitik,Er wurde Mitglied des Europäischen Parlaments.
+403,16,Peter,Jahr,CDU,13.07.2009,1364,Europapolitik,Er wurde Mitglied des Europäischen Parlaments.
+404,16,Uwe,Barth,FDP,28.09.2009,1441,Landespolitik,Er wurde Vorsitzender der FDP-Landtagsfraktion in Thüringen.
+405,16,Bodo,Ramelow,LINKE/PDS,28.09.2009,1441,Landespolitik,Er wurde Fraktionsvorsitzender der Linken im Thüringer Landtag.
+406,17,Oskar,Lafontaine,LINKE/PDS,31.01.2010,96,Gesundheit,Er legte das Mandat aus gesundheitlichen Gründen nieder (dritte Niederlegung)
+407,17,Martina,Krogmann,CDU,31.03.2010,155,Landespolitik,Sie wurde Staatssekretärin und Bevollmächtigte Niedersachsens beim Bund.
+408,17,Astrid,Grotelüschen,CDU,27.04.2010,182,Landespolitik,Sie wurde Landwirtschaftsministerin in Niedersachsen.
+409,17,Carl-Ludwig,Thiele,FDP,04.05.2010,189,Wirtschaft,Er wurde Vorstandsmitglied der Deutschen Bundesbank.
+410,17,Hellmut,Königshaus,FDP,19.05.2010,204,Amtswechsel,Er wurde Wehrbeauftragter des Deutschen Bundestags.
+411,17,Angelica,Schwall-Düren,SPD,14.07.2010,260,Landespolitik,"Sie wurde Ministerin für Bundesangelegenheiten, Europa und Medien in Nordrhein-Westfalen."
+412,17,Lucia,Puttrich,CDU,03.09.2010,311,Landespolitik,Sie wurde hessische Umweltministerin.
+413,17,Herbert,Schui,LINKE/PDS,31.10.2010,369,Gesundheit,"Er zog sich aus dem Bundstag zurück für einen „verringerten, altersgerechten Einsatz“ ."
+414,17,Leo,Dautzenberg,CDU,31.01.2011,461,Wirtschaft,Er wurde Lobbyist beim Essener Industriekonzern Evonik.
+415,17,Holger,Haibach,CDU,28.02.2011,489,Sonstiges,Er wurde Landesdirektor der Konrad-Adenauer-Stiftung in Namibia.
+416,17,Karl-Theodor,zu Guttenberg (2011),CSU,02.03.2011,491,Affäre,Wegen der Plagiats-Affäre um seine Dissertation verzichtete er auf sein Mandat und trat auch als Minister zurück.
+417,17,Olaf,Scholz,SPD,10.03.2011,499,Landespolitik,Er wurde erster Bürgermeister von Hamburg (zweite Niederlegung).
+418,17,Peter,Friedrich,SPD,20.05.2011,570,Landespolitik,Er wurde Europaminister in Baden-Württemberg (zweite Niederlegung).
+419,17,Alexander,Bonde,GRüNE,23.05.2011,573,Landespolitik,Er wurde Verbraucherschutzminister in Baden-Württemberg.
+420,17,Winfried,Hermann,GRüNE,26.05.2011,576,Landespolitik,Er wurde Verkehrsminister in Baden-Württemberg.
+421,17,Julia,Klöckner,CDU,27.05.2011,577,Landespolitik,Sie wurde Vorsitzende der CDU-Landesfraktion in Rheinland-Pfalz.
+422,17,Ulrike,Höfken,GRüNE,08.06.2011,589,Landespolitik,Sie wurde rheinland-pfälzische Umweltminsterin.
+423,17,Till,Seiler,GRüNE,02.12.2011,179,Affäre,"Offiziell legte er das Amt ""aus persönlichen Gründen"" nieder. Inoffiziell wegen Kritik nach einem Artikel von ihm."
+424,17,Werner,Hoyer,FDP,31.12.2011,795,Wirtschaft,Er wurde Präsident der Europäischen Investitionsbank.
+425,17,Christine,Scheel,GRüNE,15.01.2012,810,Wirtschaft,Sie wurde Vorstandsmitglied des ökoström-Anbieters HSE. Der Schritt sorgte für innerparteiliche Kritik.
+426,17,Paul K.,Friedhoff,FDP,30.04.2012,916,Gesundheit,Er verzichtete auf sein Mandat aus gesundheitlichen Gründen.
+427,17,Nicolette,Kressl,SPD,31.05.2012,947,Landespolitik,Sie wurde Regierungspräsidentin in Baden-Württemberg.
+428,17,Ingrid,Nestle,GRüNE,13.06.2012,960,Landespolitik,Sie wurde Staatssekretärin im Umweltministerium in Schleswig-Holstein.
+429,17,Garrelt,Duin,SPD,21.06.2012,968,Landespolitik,Er wurde Wirtschaftsminister in Nordrhein-Westfalen.
+430,17,Michael,Groschek,SPD,21.06.2012,968,Landespolitik,Er wurde Stadtentwicklungsminister in Nordrhein-Westfalen.
+431,17,Christian,Lindner,FDP,09.07.2012,986,Landespolitik,Er wurde Fraktionsvorsitzender der FDP in Nordrhein-Westfalen.
+432,17,Fritz,Kuhn,GRüNE,06.01.2013,1167,Landespolitik,Er wurde Oberbürgermeister von Stuttgart.
+433,17,Christian,Ahrendt,FDP,08.01.2013,1169,Amtswechsel,Er wurde Vizepräsident des Bundesrechnungshofes.
+434,18,Reinhold,Jost,SPD,01.01.2014,71,Landespolitik,Er wurde Mitglied der Landesregierung im Saarland.
+435,18,Priska,Hinz,GRüNE,25.01.2014,95,Landespolitik,Sie wurde hessische Umweltministerin.
+436,18,Sebastian,Edathy,SPD,07.02.2014,108,Affäre,Er legte das Mandat „aus gesundheitlichen Gründen“ nieder. Gegen ihn wird aber auch wegen Kinderporno-Verdachts ermittelt.

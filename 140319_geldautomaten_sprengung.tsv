@@ -1,0 +1,39 @@
+ID	Wochentag	Datum	Uhrzeit	Ort	Ortsteil	Bank	Bemerkung	Latitude	Longitude
+1	Samstag	2013-03-23	03:00	Egon-Erwin-Kisch-Str. 14, 13059 Berlin	Lichtenberg	Sparkasse	Sprengung	52.57413	13.50348
+2	Montag	2013-06-17	03:50	Grenzallee 4, 12057 Berlin	Neukölln	Postbank	Versuch	52.46995	13.46318
+3	Montag	2013-06-17	04:15	Hallesches Ufer 60, 10963 Berlin	Kreuzberg	Postbank	Sprengung	52.499811	13.383923
+4	Montag	2013-06-17	04:06	Bergmannstr. 72, 10961 Berlin	Kreuzberg	Postbank	Versuch	52.48906	13.398141
+5	Donnerstag	2013-06-20	04:18	Bergmannstr. 72, 10961 Berlin	Kreuzberg	Postbank	Sprengung	52.48906	13.398141
+6	Samstag	2013-06-22	02:30	Bundesallee 171, 10715 Berlin	Wilmersdorf	Sparkasse	Sprengung	52.48478	13.33165
+7	Dienstag	2013-06-25	04:28	Leipziger Str. 51, 10117 Berlin	Mitte	Sparkasse	Sprengung	52.51086	13.40159
+8	Mittwoch	2013-06-26	05:15	Bundesallee 171, 10715 Berlin	Wilmersdorf	Sparkasse	Versuch	52.48478	13.33165
+9	Freitag	2013-06-28	04:30	Frankfurter Allee 13, 10247 Berlin	Friedrichshain	Commerzbank	Versuch	52.516116	13.457394
+10	Sonntag	2013-07-07	06:52	Muskauer Str. 48, 10997 Berlin	Kreuzberg	Sparkasse	Versuch	52.501334	13.43119
+11	Montag	2013-07-08	02:15	Augsburger Str. 5, 10789 Berlin	Wilmersdorf	BB Bank	Versuch	52.500163	13.338111
+12	Dienstag	2013-07-30	04:00	Seddiner Str. 8, 10315 Berlin	Lichtenberg	Sparkasse	Versuch	52.51355	13.52146
+13	Freitag	2013-08-02	02:15	Allee der Kosmonauten 199, 12685 Berlin	Marzahn	Sparkasse	Versuch	52.542081	13.563002
+14	Montag	2013-08-19	02:54	Alte Potsdamer Str. 11, 10785 Berlin	Tiergarten	Deutsche Bank	Versuch	52.50793	13.37391
+15	Dienstag	2013-08-20	02:45	Breite Str. 25, 14199 Berlin	Schmargendorf	Commerzbank	Versuch	52.475606	13.290723
+16	Mittwoch	2013-08-21	05:50	Bayerischer Platz 1, 10779 Berlin	Schöneberg	Commerzbank	Sprengung	52.48984	13.33994
+17	Sonntag	2013-09-01	07:22	Mehringdamm 48, 10961 Berlin	Kreuzberg	Deutsche Bank	Sprengung	52.49224	13.38688
+18	Dienstag	2013-09-03	04:30	Augustenburger Platz 1, 13353 Berlin	Wedding	Berliner Bank	Versuch	52.542414	13.348643
+19	Donnerstag	2013-09-12	03:31	Residenzstr. 37, 13409 Berlin	Reinickendorf	Berliner Volksbank	Versuch	52.56632	13.36268
+20	Freitag	2013-09-13	03:37	Köpenicker Str. 18, 10997 Berlin	Kreuzberg	Fa. Notemachine	Sprengung	52.50558	13.43297
+21	Sonntag	2013-09-15	05:54	Caroline-Michaelis-Str. 5, 10115 Berlin	Mitte	Sparda	Sprengung	52.533986	13.383423
+22	Dienstag	2013-09-24	01:50	S-Bhf. Heerstr, 14055 Berlin	Westend	Berliner Volksbank	Versuch	52.508121	13.259379
+23	Mittwoch	2013-10-23	04:23	Wilhelmsruher Damm 150, 13439 Berlin	Reinickendorf	Postbank	Sprengung	52.596402	13.350376
+24	Samstag	2013-11-02	04:33	Kiepertstr. 7, 12277 Berlin	Marienfelde	Commerzbank	Versuch	52.42246	13.37109
+25	Sonntag	2013-11-17	23:35	Rudi-Dutschke-Str. 3, 10969 Berlin	Kreuzberg	Jobcenter	Sprengung	52.50656	13.39749
+26	Montag	2013-11-18	05:13	Hauptstr. 13, 13158 Berlin	Wilhelmsruh	Sparkasse	Versuch	52.58561	13.36712
+27	Donnerstag	2013-11-21	03:49	Landsberger Allee 277, 13055 Berlin	Hohenschönhausen	Sparkasse	Versuch	52.53497	13.4959
+28	Freitag	2013-11-22	03:30	S-Bhf. Jungfernheide, 10589 Berlin	Charlottenburg	Reisebank AG	Versuch	52.530375	13.299446
+29	Freitag	2013-11-29	04:50	Leipziger Platz 2, 10117 Berlin	Mitte	Berliner Volksbank	Versuch	52.508984	13.377605
+30	Dienstag	2013-12-17	02:33	S-Bahnhof Neukölln, 12055 Berlin	Neukölln	Berliner Volksbank	Versuch	52.46942	13.44306
+31	Dienstag	2013-12-17	03:37	U-Bhf. Spichernstr., 10719 Berlin	Wilmersdorf	Sparkasse	Versuch	52.496582	13.330613
+32	Dienstag	2013-12-17	03:36	U-Bhf. Alt-Tempelhof, 12099 Berlin	Tempelhof	Sparkasse	Sprengung	52.46593	13.385796
+33	Dienstag	2013-12-17	05:25	Grenzallee 4, 12057 Berlin	Neukölln	Sparkasse	Versuch	52.46995	13.46318
+34	Freitag	2014-01-10	03:20	Am Juliusturm 44, 13599 Berlin	Haselhorst	ING-Diba	Versuch	52.537706	13.21819
+35	Montag	2014-01-13	03:14	Kiepertstr. 7, 12277 Berlin	Marienfelde	Commerzbank	Sprengung	52.42246	13.37109
+36	Montag	2014-01-20	06:28	Badensche Str. 44, 10715 Berlin	Wilmersdorf	Santander	Sprengung	52.485836	13.333891
+37	Samstag	2014-01-25	08:37	Britzer Damm 141, 12347 Berlin	Britz	Berliner Volksbank	Sprengung	52.45035	13.4377
+38	Dienstag	2014-03-18	02:40	U-Bahnhof Rudow, 12355 Berlin	Rudow	Sparkasse	Versuch	52.415613	13.496799

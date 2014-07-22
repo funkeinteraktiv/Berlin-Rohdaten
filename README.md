@@ -3,7 +3,7 @@
 Hier veröffentlichen wir Rohdaten einiger unserer Anwendungen
 
 **22.07.2014: Rohdaten der interaktiven Anwendung http://www.morgenpost.de/kriminalitaet-berlin**
-* Alle Anzeigen in Berlin von 2012/2013
+* Angezeigte Straftaten in Berlin von 2012/2013
 * Quelle: http://www.berlin.de/polizei/_assets/verschiedenes/pks/kriminalitatsatlas_berlin_2013.pdf (Polizei Berlin)
 
 

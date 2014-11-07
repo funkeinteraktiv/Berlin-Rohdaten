@@ -1,6 +1,6 @@
 # Berlin-Rohdaten
 
-Hier veröffentlichen wir Rohdaten einiger unserer Anwendungen
+Hier veröffentlichen wir Rohdaten einiger unserer Anwendungen.
 
 **07.11.2014: Wanderungsdaten**
 * interaktive Anwendung: http://www.morgenpost.de/berliner-und-zugezogene

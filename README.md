@@ -2,7 +2,7 @@
 
 Hier veröffentlichen wir Rohdaten einiger unserer Anwendungen
 
-**07.11.2014: Rohdaten der interaktiven Anwendung www.morgenpost.de/berliner-und-zugezogene**
+**07.11.2014: Rohdaten der interaktiven Anwendung www.morgenpost.de/berliner-und-zugezogene (Wanderungsdaten)**
 * Zu- und Fortzüge Berlin 1991 - 2013
 * Quelle: [Amt für Statistik Berlin-Brandenburg Potsdam](https://www.statistik-berlin-brandenburg.de/)
 
